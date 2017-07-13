@@ -1,0 +1,15 @@
+Transaction1	Transaction2	Transaction3
+bread	pea	nuts
+milk	fruit	jam
+bread	jam	soda
+chipes	milk	fruit
+steak	jam	sode
+chips	bread	jam
+soda	pea	nuts
+milk	fruit	jam
+soda	chips	milk
+bread	fruit	soda
+chips	milk	fruit
+soda	pea	nuts
+milk	fruit	pea
+nuts	cheese	yogurt
